@@ -1,7 +1,12 @@
---- URI Online Judge SQL
---- Copyright URI Online Judge
---- www.urionlinejudge.com.br
---- Problem 2615
+/*
+A locadora tem objetivos de criar várias franquias espalhadas pelo Brasil.
+Para isso queremos saber em quais cidades nossos clientes moram.
+Para você nos ajudar selecione o nome de todas as cidades onde a locadora tem clientes. 
+Mas por favor, não repita o nome da cidade.
+---------------
+Danilo Donato
+URI 2615
+---------------
 
 CREATE TABLE customers (
   id numeric PRIMARY KEY,

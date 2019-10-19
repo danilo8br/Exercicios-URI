@@ -1,7 +1,11 @@
---- URI Online Judge SQL
---- Copyright URI Online Judge
---- www.urionlinejudge.com.br
---- Problem 2743
+/*
+A Organização Mundial de Caracteres em Nomes de Pessoas (OMCNP) está fazendo um censo para saber qual 
+é a quantidade de caracteres que as pessoas têm em seus nomes.
+---------------
+Danilo Donato
+URI 2743
+---------------
+*/
 
 CREATE TABLE people(
 	id INTEGER PRIMARY KEY,

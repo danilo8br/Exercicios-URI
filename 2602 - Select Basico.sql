@@ -3,8 +3,10 @@ Sua empresa está fazendo um levantamento de quantos clientes estão cadastrados
 faltou levantar os dados do estado do Rio Grande do Sul.
 Então você deve Exibir o nome de todos os clientes cujo estado seja ‘RS’.
 
+----------------------
 Danilo Donato
 URI 2602
+---------------------
 */
 
 CREATE TABLE customers (

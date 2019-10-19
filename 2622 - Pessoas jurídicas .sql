@@ -1,7 +1,11 @@
---- URI Online Judge SQL
---- Copyright URI Online Judge
---- www.urionlinejudge.com.br
---- Problem 2622
+/*
+O setor de vendas quer fazer uma promoção para todos os clientes que são pessoas jurídicas. 
+Para isso você deve exibir o nome dos clientes que sejam pessoa jurídica.
+--------------
+Danilo Donato
+URI 2622
+--------------
+*/
 
 CREATE TABLE customers (
   id numeric PRIMARY KEY,

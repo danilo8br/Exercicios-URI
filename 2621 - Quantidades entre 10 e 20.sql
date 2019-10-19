@@ -6,9 +6,10 @@ para ele.
 Exiba o nome dos produtos 
 cujas quantidades estejam entre 10 e 20 
 e cujo nome do fornecedor inicie com a letra ‘P’.
-
+--------------
 Danilo Donato
 URI 2621
+--------------
 */
 
 CREATE TABLE providers (

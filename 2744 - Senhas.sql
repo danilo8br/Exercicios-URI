@@ -1,8 +1,11 @@
---- URI Online Judge SQL
---- Copyright URI Online Judge
---- www.urionlinejudge.com.br
---- Problem 2744
-
+/*
+Você foi contratado para dar consultoria a uma empresa. 
+Analisando o banco de dados você notou que as senhas gravadas dos usuários estão em formato de texto, 
+sendo que isso pode gerar uma falha de segurança, uma vez que elas não estão criptografadas.
+--------------
+Danilo Donato
+URI 2744
+--------------
 CREATE TABLE account(
   id INTEGER PRIMARY KEY,
   name VARCHAR(255),

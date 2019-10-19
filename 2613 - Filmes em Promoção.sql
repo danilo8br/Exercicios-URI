@@ -1,7 +1,5 @@
---- URI Online Judge SQL
---- Copyright URI Online Judge
---- www.urionlinejudge.com.br
---- Problem 2613
+/*
+Antigamente a locadora fez um evento em que vários filmes estavam em promoção, queremos saber que filmes eram esses.
 
 CREATE TABLE prices (
   id numeric PRIMARY KEY,

@@ -6,6 +6,8 @@ sendo que isso pode gerar uma falha de segurança, uma vez que elas não estão 
 Danilo Donato
 URI 2744
 --------------
+*/
+
 CREATE TABLE account(
   id INTEGER PRIMARY KEY,
   name VARCHAR(255),

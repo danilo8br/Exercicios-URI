@@ -6,6 +6,7 @@ e o nome dos produtos cujo preço são menores que 10 ou maiores que 100.
 Danilo Donato
 URI 2604
 -----------------
+*/
 
 CREATE TABLE products (
   id NUMERIC PRIMARY KEY,

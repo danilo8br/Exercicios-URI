@@ -1,3 +1,4 @@
+/*
 A diretoria da empresa pediu para você um relatório simples de quantas cidades a empresa já alcançou.
 Para fazer isso você deve exibir a quantidade de cidades distintas da tabela clientes.
 
@@ -5,6 +6,7 @@ Para fazer isso você deve exibir a quantidade de cidades distintas da tabela cl
 Danilo Donato
 URI 2624
 ----------------
+*/
 
 CREATE TABLE customers (
   id numeric PRIMARY KEY,

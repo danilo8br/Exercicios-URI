@@ -1,8 +1,13 @@
---- URI Online Judge SQL
---- Copyright URI Online Judge
---- www.urionlinejudge.com.br
---- Problem 2610
+/*
+Na empresa que você trabalha está sendo feito um levantamento sobre os valores dos produtos que são comercializados.
+Para ajudar o setor que está fazendo esse levantamento você deve calcular e exibir o valor médio do preço dos produtos.
+OBS: Mostrar o valor com dois números após o ponto.
 
+--------------
+Danilo Donato
+URI 2610
+--------------
+*/
 CREATE TABLE products (
     id NUMERIC PRIMARY KEY,
     name VARCHAR,

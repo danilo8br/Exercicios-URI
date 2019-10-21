@@ -5,7 +5,7 @@ Para isso exiba somente o maior e o menor preço da tabela produtos.
 Danilo Donato
 URI 2608
 -------------
-
+*/
 CREATE TABLE products (
   id numeric PRIMARY KEY,
   name varchar(50),

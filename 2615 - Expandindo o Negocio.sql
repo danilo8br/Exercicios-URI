@@ -7,7 +7,7 @@ Mas por favor, não repita o nome da cidade.
 Danilo Donato
 URI 2615
 ---------------
-
+*/
 CREATE TABLE customers (
   id numeric PRIMARY KEY,
   name varchar(50),

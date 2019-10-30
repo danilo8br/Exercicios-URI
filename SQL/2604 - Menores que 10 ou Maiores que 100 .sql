@@ -1,7 +1,11 @@
---- URI Online Judge SQL
---- Copyright URI Online Judge
---- www.urionlinejudge.com.br
---- Problem 2604
+/*
+O setor financeiro da empresa precisa de um relatório que mostre o código
+e o nome dos produtos cujo preço são menores que 10 ou maiores que 100.
+-----------------
+Danilo Donato
+URI 2604
+-----------------
+*/
 
 CREATE TABLE products (
   id NUMERIC PRIMARY KEY,

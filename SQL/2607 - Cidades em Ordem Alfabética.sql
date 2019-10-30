@@ -1,7 +1,13 @@
---- URI Online Judge SQL
---- Copyright URI Online Judge
---- www.urionlinejudge.com.br
---- Problem 2607
+/*
+Todos os meses a empresa pede um relatório das cidades que os fornecedores estão cadastrados. 
+Dessa vez não vai ser diferente, 
+faça uma consulta no Banco de Dados que retorne todas as cidades dos fornecedores, mas em ordem alfabética.
+OBS: Você não deve mostrar cidades repetidas.
+--------------
+Danilo Donato
+URI 2607
+--------------
+*/
 
 CREATE TABLE providers (
   id numeric PRIMARY KEY,

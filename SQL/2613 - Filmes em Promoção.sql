@@ -1,7 +1,12 @@
---- URI Online Judge SQL
---- Copyright URI Online Judge
---- www.urionlinejudge.com.br
---- Problem 2613
+/*
+Antigamente a locadora fez um evento em que vários filmes estavam em promoção, 
+queremos saber que filmes eram esses.
+Seu trabalho para nós ajudar é selecionar o ID e o nome dos filmes cujo preço for menor que 2.00.
+--------------
+Danilo Donato
+URI 2613
+--------------
+*/
 
 CREATE TABLE prices (
   id numeric PRIMARY KEY,

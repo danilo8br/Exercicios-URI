@@ -1,4 +1,11 @@
+/* Uma Vídeo locadora contratou seus serviços para catalogar os filmes dela.
+Eles precisam que você selecione o código e o nome dos filmes cuja descrição do gênero seja 'Action'.
 
+--------------
+Danilo Donato
+URI 2611
+--------------
+*/
 
 CREATE TABLE genres (
   id numeric PRIMARY KEY,

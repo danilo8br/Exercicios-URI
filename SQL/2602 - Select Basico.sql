@@ -1,7 +1,12 @@
---- URI Online Judge SQL
---- Copyright URI Online Judge
---- www.urionlinejudge.com.br
---- Problem 2602
+/*
+Sua empresa está fazendo um levantamento de quantos clientes estão cadastrados nos estados, porém,
+faltou levantar os dados do estado do Rio Grande do Sul.
+Então você deve Exibir o nome de todos os clientes cujo estado seja ‘RS’.
+----------------------
+Danilo Donato
+URI 2602
+---------------------
+*/
 
 CREATE TABLE customers (
   id NUMERIC PRIMARY KEY,

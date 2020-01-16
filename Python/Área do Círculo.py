@@ -34,6 +34,6 @@ caso contrário, você receberá "Presentation Error".
 Solução:
 
 raio = float(input())
-n = 3.14159
-area = raio ** 2 * n
+pi = 3.14159
+area = raio ** 2 * pi
 print("A={:.4f}".format(area))

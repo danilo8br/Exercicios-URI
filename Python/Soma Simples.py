@@ -1,4 +1,4 @@
-/*
+"""
 Leia dois valores inteiros, no caso para variáveis A e B. A seguir, calcule a soma entre elas e atribua à variável SOMA.
 A seguir escrever o valor desta variável.
 
@@ -22,7 +22,7 @@ Como todos os problemas, não esqueça de imprimir o fim de linha após o result
 0                                                             | SOMA = 0
 0                                                             |
 ------------------------------------------------------------------------------------------------------------------------------------
-*/
+"""
 
 Solução:
 

@@ -1,4 +1,4 @@
-'''
+/*
 --------------
 Danilo Donato
 URI 1004
@@ -26,7 +26,7 @@ caso contrário seu programa apresentará a mensagem: “Presentation Error”.
 0                           | PROD = 0
 9                           |
 -----------------------------------------------------------------------
-'''
+*/
 
 n1 = int(input())
 n2 = int(input())

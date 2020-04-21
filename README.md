@@ -1,4 +1,4 @@
 ### Exercícios URI
 
 
-- Aqui será meu repositórtio de exercicios do URI. Nele você vai encontrar exercícios de Python e SQL por enquanto, conforme ganho mais conhecimento irei realizando mais exercícios de diferentes linguagens !
+- This will be my URI exercise repository. In it you will find Python and SQL exercises for now, as I gain more knowledge I will perform more exercises in different languages!
